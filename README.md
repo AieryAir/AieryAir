@@ -1,5 +1,4 @@
-i don't know what i'm doing :P
-
+Learning how to code through theodinproject.com 
 <!--
 **AieryAir/AieryAir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
