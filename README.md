@@ -1,4 +1,9 @@
-Learning how to code through theodinproject.com 
+<h2> / about me / </h2>
+
+- 🎓 I am a College Student
+- 💻 I major in Information Technology
+- 🌱 I'm currently learning Web Development
+
 <!--
 **AieryAir/AieryAir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
