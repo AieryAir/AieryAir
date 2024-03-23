@@ -1,8 +1,6 @@
 <h2> / about me / </h2>
 
-- 🎓 I am a 1st year College Student
-- 💻 I major in Information Technology
-- 🌱 I'm currently learning Web Development
+- am a student, learning things as I go
 
 <h2> / languages & tools / </h2>
 
